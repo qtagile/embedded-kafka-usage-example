@@ -4,12 +4,13 @@ Small Spring Boot application using the Embedded-Kafka (https://github.com/qtagi
 
 ##Usage
 
-Run
+Execute from the command line
 ```groovy
 ./gradlew clean bootRun
 ```
 
-And the application will write 10 messages in the queue and it will start reading from it.
+The application will write 10 messages in the queue and it will start reading from it.
+
 After the first 10 messages it will simply start printing the default message.
 
 ##License
