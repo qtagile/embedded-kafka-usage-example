@@ -1,6 +1,6 @@
 #Embedded Kafka usage example
 
-Small Spring Boot application using the Embedded-Kafka (https://github.com/qtagile/embedded-kafka) library.
+Spring Boot application using the Embedded-Kafka (https://github.com/qtagile/embedded-kafka) library.
 
 ##Usage
 
